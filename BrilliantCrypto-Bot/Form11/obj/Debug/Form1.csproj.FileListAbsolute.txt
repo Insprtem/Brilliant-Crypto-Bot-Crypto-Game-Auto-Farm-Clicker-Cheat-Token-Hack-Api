@@ -1,0 +1,2 @@
+D:\GithubNew\14\BrilliantCrypto\Brilliant\BrilliantCrypto-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\14\BrilliantCrypto\Brilliant\BrilliantCrypto-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
